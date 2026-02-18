@@ -1,0 +1,6 @@
+title: My Website
+description: My GitHub Pages site
+theme: jekyll-theme-primer
+
+readme_index:
+  enabled: false
